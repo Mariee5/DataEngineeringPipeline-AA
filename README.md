@@ -197,6 +197,24 @@ python database/main_db.py --reset
 python database/main_db.py
 ```
 
+### Option 3: Interactive Dashboard (Streamlit)
+
+Visualize KPIs in real-time with an interactive web dashboard!
+
+```bash
+# Install Streamlit (if not already installed)
+pip install streamlit plotly
+
+# Run the dashboard
+streamlit run streamlit_app.py
+```
+
+The dashboard will open in your browser at `http://localhost:8501` and display:
+- Real-time KPI metrics (Revenue, Customers, Orders)
+- Interactive charts (Regional Revenue, Top Customers, Top Products)
+- Detailed data tables
+- Automatic data refresh on reload
+
 ---
 
 ##  Usage
@@ -484,8 +502,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@yMariee5](https://github.com/Mariee5)
+- LinkedIn: [Shobha Mary](www.linkedin.com/in/shobha-mary-388388249https://linkedin.com/in/ShobhaMary)
 
 ---
 
@@ -497,15 +515,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-##  Support
 
-For questions or support:
-
--  Email: your.email@example.com
--  Issues: [GitHub Issues](https://github.com/yourusername/akasa-air-pipeline/issues)
--  Documentation: See documentation files in repository
-
----
 
 ** If you find this project useful, please consider giving it a star!**
 
