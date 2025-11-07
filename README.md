@@ -484,8 +484,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@yMariee5](https://github.com/Mariee5)
+- LinkedIn: [Shobha Mary](www.linkedin.com/in/shobha-mary-388388249https://linkedin.com/in/ShobhaMary)
 
 ---
 
@@ -497,15 +497,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-##  Support
 
-For questions or support:
-
--  Email: your.email@example.com
--  Issues: [GitHub Issues](https://github.com/yourusername/akasa-air-pipeline/issues)
--  Documentation: See documentation files in repository
-
----
 
 ** If you find this project useful, please consider giving it a star!**
 
